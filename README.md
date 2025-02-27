@@ -73,9 +73,6 @@ WHERE party IN (
 - Implement interactive dashboards using Power BI or Tableau.
 - Expand dataset with voter demographics and turnout analysis.
 
-## Contributors
-- **[Your Name]** - SQL Queries & Analysis
-- **[Other Contributors]** - Data Collection & Validation
 
----
-*For any questions or improvements, feel free to contribute!* 🚀
+
+
