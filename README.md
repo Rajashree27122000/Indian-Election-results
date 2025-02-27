@@ -25,21 +25,29 @@ statewise_results: State-level election summaries.
 # 3. SQL Queries
 
 Creating and selecting the database: Sets up the database for analysis.
+
 Fetching data from tables: Retrieves all stored election results.
+
 Total seats calculation: Counts the number of parliamentary constituencies.
+
 State-wise seat availability: Calculates how many seats each state has.
+
 NDA alliance seats: Counts how many seats were won by NDA parties.
 
 # 4. Usage Instructions
 
 Import the SQL file into a database management system (like MySQL or PostgreSQL).
+
 Run the provided queries to analyze election results.
+
 Modify the queries if you need deeper insights.
 
 # 5. Future Enhancements
 
 Adding visualizations using Python (Pandas, Matplotlib, Seaborn).
+
 Implementing interactive dashboards with Power BI or Tableau.
+
 Expanding the dataset to include voter demographics and turnout analysis.
 
 # 6. Contributors
