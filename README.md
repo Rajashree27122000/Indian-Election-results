@@ -5,7 +5,7 @@
 
 # 1. Overview
 
-This SQL project analyzes the 2024 Indian General Election results using structured queries.
+- **This SQL project analyzes the 2024 Indian General Election results using structured queries.
 
 It provides insights into constituency-wise and party-wise results, total seat calculations, and state-wise breakdowns.
 
